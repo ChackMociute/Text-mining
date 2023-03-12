@@ -1,3 +1,6 @@
 .ipynb_checkpoints 
 airlinetweets
 nerc_datasets
+cache_dir
+outputs
+runs
